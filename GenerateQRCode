@@ -30,7 +30,7 @@ public static void main(String args[]) throws WriterException, IOException, NotF
 	//String str="https://ipfs.io/ipfs/QmU7YMxFUv6bsD7EmF8HvNm9C82pP7NW4mmjeSfpgMr5Tm";
 	String str="https://www.etsist.upm.es/estudios-ingenieria-sistemas-telecomunicaciones-madrid/masters-ingenieria-madrid/mwc";
 //path where we want to get QR Code  
-String path = "C:\\Users\\jesus.rodriguezm\\Documents\\Paperback Writer\\QR.jpg";  
+String path = "C:\\Users\\j\\Documents\\Paperback Writer\\QR.jpg";  
 //Encoding charset to be used  
 String charset = "UTF-8";  
 Map<EncodeHintType, ErrorCorrectionLevel> hashMap = new HashMap<EncodeHintType, ErrorCorrectionLevel>();  
